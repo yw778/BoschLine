@@ -1,0 +1,6 @@
+*.gz
+test_script
+R_script
+.ipynb_checkpoints
+.DS_Store
+
